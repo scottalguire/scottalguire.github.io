@@ -3,6 +3,7 @@ title: Brick Labs, Inc.
 author: Scott Alguire
 tags: Development, WordPress, HTML, JS, SCSS, PHP
 long_description: Developed a custom responsive WordPress website for a consulting firm. Includes static content, blog, events master/detail view (custom post type UI/advanced custom fields).
+excerpt: When Brick Labs approached me the existing [bricklabs.ca] website was in disrepair, having been generated via Adobe Muse (a website code generator tool) by a designer.
 image: 
   path: 'https://s3.us-east-2.amazonaws.com/elasticbeanstalk-us-east-2-419703487259/portfolio/screenshot-bricklabs-short-sm.jpg'
 ---
